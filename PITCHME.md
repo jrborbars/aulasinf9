@@ -1,5 +1,8 @@
+
 @title[Introduction]
 
+
+Fake [Javascript](https://jquery.org/)
 ```javascript
 function fancyAlert(arg) {
   if(arg) {
@@ -8,6 +11,7 @@ function fancyAlert(arg) {
 }
 ```
 
+Python [Bottle](https://bottlepy.org/)
 
 ```python
 from bottle import route, run, template
@@ -19,4 +23,6 @@ def index(name):
 run(host='localhost', port=8080)
 ```
 
+---------------------
 
+#### Create slideshow content using GitHub Flavored Markdown in your favorite editor. 
